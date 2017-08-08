@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="googleApiTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-06-06T13:29:28" hostname="grodrigu-mac-5.local" time="4.666">
+  <properties/>
+  <testcase name="shouldReturnPlaceWithSuccessfully" classname="googleApiTest" time="3.036"/>
+  <testcase name="shouldReturnStatus200WithSuccessful" classname="googleApiTest" time="1.629"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
